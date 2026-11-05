@@ -18,7 +18,7 @@ namespace Cat_bomb
         bool open1 = false, open2 = false, open3 = false , open4 = false, open5 = false, open6 = false;
         
 
-        string path = "C:\\Users\\xalid\\Downloads\\";
+        string path = "C:\\Users\\rahim\\Downloads\\";
 
         private void Form1_Load(object sender, EventArgs e)
         {
